@@ -5,6 +5,7 @@ Welcome to Access Code! Please take the time to read through these:
 
 1. [Code of Conduct](code-of-conduct.md): The Access Code Code of Conduct
 2. [Communicating and collaborating](communicating-and-collaborating.md): Communication channels and collaboration guidelines
+3. [Graduation Requirements](graduation-requirements.md)
 
 **Cheatsheets**
 
